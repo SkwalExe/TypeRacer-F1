@@ -1,10 +1,10 @@
-# TypeRacer-F1
+# TypeRacer-F1🏎️
 
 ![screenshot](screenshot.gif)
 
 🏎️ Autotyper for typeracer.com
 
-# Disclamer
+# Disclamer⚠️
 
 **This program is only for educational purposes and doesn't incite you to cheat.**
 
@@ -12,26 +12,28 @@
 
 ## Install npm and [nodejs](https://nodejs.org/en/) 
 
-### Arch 🌠
+### Arch 🐧
 
 ```bash
 sudo pacman -S npm nodejs
 ```
 
-### Debian 
+### Debian based distros 🐧
 
 ```bash 
 sudo apt install nodejs
 ```
 
-### 💩 Windows 💩 
+### Windows 🪟 
 
 Download and install nodejs from [here](https://archlinux.org/download/)
+
+Then follow [install modules](#install-modules) and [usage](#usage-)
 
 ## Install modules
 
 ```bash
-# /TypeRacer-F1
+# 📂 TypeRacer-F1/
 npm install
 ```
 
@@ -40,7 +42,7 @@ npm install
 In the terminal, run
 
 ```bash
-# /TypeRacer-F1
+# 📂 TypeRacer-F1/
 node index.js
 ```
 
