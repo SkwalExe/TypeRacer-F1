@@ -18,7 +18,7 @@
 sudo pacman -S npm nodejs
 ```
 
-### Debian 🐧
+### Debian based distros 🐧
 
 ```bash 
 sudo apt install nodejs
@@ -27,6 +27,8 @@ sudo apt install nodejs
 ### Windows 🪟 
 
 Download and install nodejs from [here](https://archlinux.org/download/)
+
+Then follow [install modules](#install-modules) and [usage](#usage-)
 
 ## Install modules
 
