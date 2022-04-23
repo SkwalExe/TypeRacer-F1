@@ -46,10 +46,6 @@ In the terminal, run
 node index.js
 ```
 
-# SKIDS 👶
-
-please don't copy this code or at least credit me 
-
 # final
 
 * If you have any probleme, don't hesitate to open an issue
